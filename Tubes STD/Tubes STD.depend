@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1525018383 source:d:\tubes std\otak.cpp
+	"otak.h"
+	"admin.h"
+	"juri.h"
+
+1525016297 d:\tubes std\otak.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+
+1525021959 source:d:\tubes std\admin.cpp
+	"otak.h"
+	"admin.h"
+
+1525021959 d:\tubes std\admin.h
+	"otak.h"
+	"juri.h"
+
+1524903420 source:d:\tubes std\main.cpp
+	<iostream>
+	"otak.h"
+	"admin.h"
+	"juri.h"
+
+1525016297 source:d:\tubes std\juri.cpp
+	"juri.h"
+	"otak.h"
+
+1525016297 d:\tubes std\juri.h
+	"otak.h"
+	"peserta.h"
+	"admin.h"
+
+1523511372 d:\tubes std\peserta.h
+	"otak.h"
+
+1525021960 source:c:\users\baginda\desktop\tubes std\admin.cpp
+	"otak.h"
+	"admin.h"
+
+1525016298 c:\users\baginda\desktop\tubes std\otak.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<cstdlib>
+
+1525021960 c:\users\baginda\desktop\tubes std\admin.h
+	"otak.h"
+	"juri.h"
+
+1525016298 c:\users\baginda\desktop\tubes std\juri.h
+	"otak.h"
+	"peserta.h"
+	"admin.h"
+
+1523511374 c:\users\baginda\desktop\tubes std\peserta.h
+	"otak.h"
+
+1525016298 source:c:\users\baginda\desktop\tubes std\juri.cpp
+	"juri.h"
+	"otak.h"
+
+1524903422 source:c:\users\baginda\desktop\tubes std\main.cpp
+	<iostream>
+	"otak.h"
+	"admin.h"
+	"juri.h"
+
+1525022274 source:c:\users\baginda\desktop\tubes std\otak.cpp
+	"otak.h"
+	"admin.h"
+	"juri.h"
+

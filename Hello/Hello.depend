@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1517161891 source:c:\users\baginda\desktop\tes\hello\main.cpp
+	"hello.h"
+
+1517161892 c:\users\baginda\desktop\tes\hello\hello.h
+	<iostream>
+	<cstdlib>
+
+1517161892 source:c:\users\baginda\desktop\tes\hello\hello.cpp
+	"hello.h"
+
