@@ -117,5 +117,5 @@ string indexing(double x, double y, double z) {
         return "D";
     return "E";
 }
-//BAGINDA ACHMAD FADILLAH (IF 41-01) - 1301174338
+//BAGINDA
 //28 JANUARI 2018
