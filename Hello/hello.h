@@ -13,5 +13,5 @@ void confused();
 void remove_inside (int);
 string indexing (double, double, double);
 #endif // HELLO_H_INCLUDED
-//BAGINDA ACHMAD FADILLAH (IF 41-01) - 1301174338
+//BAGINDA
 //28 JANUARI 2018
