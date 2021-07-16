@@ -2,8 +2,8 @@
 
 int main() {
     cout<<"Test procedure Greeting"<<endl;
-    string name = "Baginda Achmad Fadillah";
-    string id = "1301174338";
+    string name = "Baginda";
+    string id = "-";
     greetings(name, id);
     cout<<"please answer Question 1"<<endl<<endl;
 
@@ -37,5 +37,5 @@ int main() {
 
     return 0;
 }
-//BAGINDA ACHMAD FADILLAH (IF 41-01) - 1301174338
+//BAGINDA
 //28 JANUARI 2018
